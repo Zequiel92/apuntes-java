@@ -11,5 +11,8 @@ public class InmutabilidadCadenas {
     System.out.println("Modificado: "+cadena1);
     System.out.println(cadena2);
 
+    // Comparar contenido usamos el metodo equal
+    System.out.println(cadena1.equals(cadena2));
+
   }
 }
