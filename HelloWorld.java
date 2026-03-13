@@ -4,7 +4,9 @@ class HelloWorld {
         System.out.println("Adios mundo");
 
         int variable = 29;
+        var numero30 = 30;
         System.out.println(variable);
+        System.out.println(numero30);
     }
 
     public static void main(String[] args) {
@@ -14,3 +16,4 @@ class HelloWorld {
 
         adios();
     }
+  }
